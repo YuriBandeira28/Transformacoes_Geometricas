@@ -71,16 +71,16 @@ utilizando a biblioteca Matplotlib para simular um quadrado que rotaciona em tor
 centro e se move dentro de uma área de plotagem, invertendo o sentido do movimento ao colidir com
 os limites da área, como se fosse uma bola quicando.
 Requisitos:
-• Área de Plotagem: Crie uma área de plotagem de tamanho 5x5. Os limites devem ser claramente
+- Área de Plotagem: Crie uma área de plotagem de tamanho 5x5. Os limites devem ser claramente
 definidos, e o aspecto do gráfico deve ser igual.
-• Quadrado: Desenhe um quadrado de lado 1 com o canto inferior esquerdo no ponto (1,1). Utilize a
+- Quadrado: Desenhe um quadrado de lado 1 com o canto inferior esquerdo no ponto (1,1). Utilize a
 classe Polygon da Matplotlib.
-• Rotação: Faça o quadrado rotacionar continuamente em torno de seu próprio centro. A rotação
+- Rotação: Faça o quadrado rotacionar continuamente em torno de seu próprio centro. A rotação
 deve ser realizada sem o uso de bibliotecas específicas, exceto a biblioteca math, que pode ser
 utilizada para cálculo de seno, cosseno e conversão de graus em radianos.
-• Movimentação: Faça o quadrado se mover em linha reta pela área de plotagem. Ao colidir com os
+- Movimentação: Faça o quadrado se mover em linha reta pela área de plotagem. Ao colidir com os
 limites da área, o quadrado deve inverter o sentido do movimento, como se estivesse quicando.
-• Controle de Colisões: Implemente um controle preciso de colisões para evitar que o quadrado
+- Controle de Colisões: Implemente um controle preciso de colisões para evitar que o quadrado
 ultrapasse os limites da área de plotagem.
-• Animação: Utilize um loop para atualizar o gráfico e criar a animação do quadrado rotacionando e
+- Animação: Utilize um loop para atualizar o gráfico e criar a animação do quadrado rotacionando e
 se movendo. Não pode ser utilizada a biblioteca animation da Matplotlib.
