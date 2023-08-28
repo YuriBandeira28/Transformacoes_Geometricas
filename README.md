@@ -1,4 +1,4 @@
-# Transoformações Geométricas
+# Transformações Geométricas
 
 Exercícios realizados para matéria de Computação Gráfica
 
